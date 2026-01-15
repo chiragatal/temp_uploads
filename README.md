@@ -5,3 +5,4 @@
 
 ## Pre-Encrypted OTA images
 - https://raw.githubusercontent.com/wiki/chiragatal/temp_uploads/pre_encrypted_ota_secure.bin
+
